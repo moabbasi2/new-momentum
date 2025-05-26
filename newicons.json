@@ -1,0 +1,218 @@
+{
+    "Generic": {
+      "name": "meeting-summary-bold",
+      "color": "grey"
+    },
+    "Chat": {
+      "name": "chat-bold",
+      "color": "blue"
+    },
+    "Messenger": {
+      "name": "social-fbmessenger-color",
+      "color": "cobalt",
+      "iconSet": "momentumBrandVisuals"
+    },
+    "Facebook": {
+      "name": "social-facebook-color",
+      "color": "grey",
+      "iconSet": "momentumBrandVisuals"
+    },
+    "Apple": {
+      "name": "apple-bold",
+      "color": "mint"
+    },
+    "Apple-Branded": {
+      "name": "apple-business-chat-color",
+      "color": "cobalt",
+      "iconSet": "momentumBrandVisuals"
+    },
+    "RCS": {
+      "name": "social-rcs-color",
+      "color": "cobalt",
+      "iconSet": "momentumBrandVisuals"
+    },
+    "WhatsApp": {
+      "name": "social-whatsapp-color",
+      "color": "cobalt",
+      "iconSet": "momentumBrandVisuals"
+    },
+    "Activity": {
+      "name": "meetings-bold",
+      "color": "yellow"
+    },
+    "Email": {
+      "name": "email-bold",
+      "color": "red"
+    },
+    "SMS": {
+      "name": "sms-filled",
+      "color": "darkmint"
+    },
+    "Telephony": {
+      "name": "incoming-call-legacy-bold",
+      "color": "green"
+    },
+    "Voice": {
+        "name": "handset-filled",
+      "color": "green"
+    },
+    "Call": {
+      "name": "handset-filled",
+      "color": "green"
+    },
+    "outbound-call": {
+      "name": "outgoing-call-legacy-filled",
+      "color": "green"
+    },
+    "inbound-call": {
+      "name": "incoming-call-legacy-filled",
+      "color": "green"
+    },
+    "Phone": {
+      "name": "handset-filled",
+      "color": "green"
+    },
+    "wrapup": {
+      "name": "close-space-bold",
+      "color": "red"
+    },
+    "agent": {
+      "name": "helpdesk-bold",
+      "color": "blue"
+    },
+    "social": {
+      "name": "queue-contact-bold",
+      "color": "mint"
+    },
+    "task": {
+      "name": "check-bold",
+      "color": "yellow"
+    },
+     "task-green": {
+      "name": "check-bold",
+      "color": "green"
+    },
+    "Login": {
+      "name": "sign-in-bold",
+      "color": "gold"
+    },
+    "Page Visit": {
+      "name": "mouse-cursor-bold",
+      "color": "grey"
+    },
+    "Entered ZipCode": {
+      "name": "location-bold",
+      "color": "cyan"
+    },
+    "Identify": {
+      "name": "user-bold",
+      "color": "blue"
+    },
+    "Quote": {
+      "name": "document-bold",
+      "color": "cobalt"
+    },
+    "NPS.*": {
+      "name": "analysis-filled",
+      "color": "red"
+    },
+    "Video": {
+      "name": "camera-bold",
+      "color": "orange"
+    },
+    "Initiated Walk In": {
+      "name": "camera-bold",
+      "color": "orange"
+    },
+    "IMI_Inbound": {
+      "name": "incoming-call-legacy-filled",
+      "color": "green"
+    },
+    "IMI_Outbound": {
+      "name": "outgoing-call-legacy-filled",
+      "color": "darkmint"
+    },
+    "Trigger Sent to Server": {
+      "name": "send-bold",
+      "color": "violet"
+    },
+    "Email Survey": {
+      "name": "survey-bold",
+      "color": "violet"
+    },
+    "Survey Send": {
+      "name": "survey-bold",
+      "color": "gold"
+    },
+    "multi events single day": {
+      "name": "calendar-day-bold",
+      "color": "yellow"
+    },
+    "Answered Quickly": {
+    "name": "calendar-day-bold",
+    "color": "green"
+    },
+    "Acceptable Queue Wait-time": {
+    "name": "calendar-day-bold",
+    "color": "yellow"
+    },
+    "Waited In Queue Too Long": {
+    "name": "calendar-day-bold",
+    "color": "red"
+    },
+    "Daily": {
+    "name": "daily-recurring-schedule-bold",
+    "color": "yelloe"
+    },
+    "Done-All":{
+    "name": "done-all-bold",
+    "color": "green"
+    },
+    "External-Message":{
+    "name": "external-message-bold",
+    "color": "gold"
+    },
+    "status":{
+    "name": "info-circle-bold",
+    "color": "yellow"
+    },
+    "alert":{
+    "name": "priority-circle-bold",
+    "color": "orange"
+    },
+    "alert2":{
+    "name": "alert-bold",
+    "color": "red"
+    },
+    "airplane":{
+    "name": "pto-presence-bold",
+    "color": "blue"
+    },
+    "email-outgoing":{
+    "name": "email-outgoing-bold",
+    "color": "lime"
+    },
+    "generic-bot":{
+    "name": "bot-customer-assistant-bold",
+    "color": "blue"
+    },
+    "Announcement":{
+    "name": "announcement-bold",
+    "color": "lime"
+    },
+      "ai-assistance": {
+      "name": "cisco-ai-assistant-color-gradient",
+      "color": "cobalt",
+      "iconSet": "momentumBrandVisuals"
+    },
+    "ai-agent": {
+      "name": "swiftmatch-color",
+      "color": "cobalt",
+      "iconSet": "momentumBrandVisuals"
+    },
+    "webex-icon": {
+      "name": "webex-app-icon-color-container",
+      "color": "cobalt",
+      "iconSet": "momentumBrandVisuals"
+    }
+  }
