@@ -214,5 +214,10 @@
       "name": "webex-app-icon-color-container",
       "color": "cobalt",
       "iconSet": "momentumBrandVisuals"
+    },
+    "note": {
+      "name": "allow-to-annotate-regular",
+      "color": "blue",
+      "iconSet": "momentumBrandVisuals"
     }
   }
