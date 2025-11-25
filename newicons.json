@@ -219,5 +219,10 @@
       "name": "allow-to-annotate-regular",
       "color": "blue",
       "iconSet": "momentumBrandVisuals"
+    },
+    "notify": {
+      "name": "sms-message-filled",
+      "color": "yellow",
+      "iconSet": "momentumBrandVisuals"
     }
   }
