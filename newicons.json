@@ -9,12 +9,10 @@
   },
   "Messenger": {
     "name": "social-fbmessenger-color",
-    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "Facebook": {
     "name": "social-facebook-color",
-    "color": "grey",
     "iconSet": "momentumBrandVisuals"
   },
   "Apple": {
@@ -23,7 +21,6 @@
   },
   "Apple-Branded": {
     "name": "apple-business-chat-color",
-    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "RCS": {
@@ -241,10 +238,6 @@
     "name": "icon-report_16",
     "color": "gold"
   },
-  "whatsApp": {
-    "name": "icon-whatsApp_16",
-    "color": "green"
-  },
   "calendarDate": {
     "name": "icon-calendar-month_16",
     "color": "green"
@@ -400,5 +393,17 @@
   "Abandoned While Waiting": {
     "name": "icon-emoticon-sad_24",
     "color": "red"
+  },
+  "Servicenow": {
+    "name": "servicenow-color",
+    "iconSet": "momentumBrandVisuals"
+  },
+  "Salesforce": {
+    "name": "salesforce-color",
+    "iconSet": "momentumBrandVisuals"
+  },
+  "Dynamics": {
+    "name": "ms-dynamics-color",
+    "iconSet": "momentumBrandVisuals"
   }
 }
