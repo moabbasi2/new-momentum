@@ -19,7 +19,7 @@
     "name": "apple-bold",
     "color": "mint"
   },
-  "Apple-Branded": {
+  "appleMessages": {
     "name": "apple-business-chat-color",
     "iconSet": "momentumBrandVisuals"
   },
@@ -28,7 +28,7 @@
     "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
-  "WhatsApp": {
+  "whatsApp": {
     "name": "social-whatsapp-color",
     "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
@@ -142,24 +142,24 @@
     "color": "gold"
   },
   "multi events single day": {
-    "name": "calendar-day-bold",
+    "name": "emoji-passive-bold",
     "color": "yellow"
   },
   "Answered Quickly": {
-    "name": "calendar-day-bold",
+    "name": "emoji-happy-bold",
     "color": "green"
   },
   "Acceptable Queue Wait-time": {
-    "name": "calendar-day-bold",
+    "name": "emoji-passive-bold",
     "color": "yellow"
   },
   "Waited In Queue Too Long": {
-    "name": "calendar-day-bold",
+    "name": "emoji-sad-bold",
     "color": "red"
   },
   "Daily": {
     "name": "daily-recurring-schedule-bold",
-    "color": "yelloe"
+    "color": "yellow"
   },
   "Done-All": {
     "name": "done-all-bold",
@@ -219,8 +219,7 @@
   },
   "notify": {
     "name": "sms-message-filled",
-    "color": "yellow",
-    "iconSet": "momentumBrandVisuals"
+    "color": "yellow"
   },
   "Chat Transcription": {
     "name": "icon-note_20",
