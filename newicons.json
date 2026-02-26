@@ -9,10 +9,12 @@
   },
   "Messenger": {
     "name": "social-fbmessenger-color",
+    "color": "blue",
     "iconSet": "momentumBrandVisuals"
   },
   "Facebook": {
     "name": "social-facebook-color",
+    "color": "blue",
     "iconSet": "momentumBrandVisuals"
   },
   "Apple": {
@@ -21,14 +23,17 @@
   },
   "appleMessages": {
     "name": "apple-business-chat-color",
+    "color": "mint",
     "iconSet": "momentumBrandVisuals"
   },
   "RCS": {
     "name": "social-rcs-color",
+    "color": "red",
     "iconSet": "momentumBrandVisuals"
   },
   "whatsApp": {
     "name": "social-whatsapp-color",
+    "color": "green",
     "iconSet": "momentumBrandVisuals"
   },
   "Activity": {
@@ -206,12 +211,12 @@
   },
   "webex-icon": {
     "name": "webex-app-icon-color-container",
+    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "note": {
     "name": "allow-to-annotate-regular",
-    "color": "blue",
-    "iconSet": "momentumBrandVisuals"
+    "color": "blue"
   },
   "notify": {
     "name": "sms-message-filled",
@@ -391,14 +396,17 @@
   },
   "Servicenow": {
     "name": "servicenow-color",
+    "color": "mint",
     "iconSet": "momentumBrandVisuals"
   },
   "Salesforce": {
     "name": "salesforce-color",
+    "color": "blue",
     "iconSet": "momentumBrandVisuals"
   },
   "Dynamics": {
     "name": "ms-dynamics-color",
+    "color": "purple",
     "iconSet": "momentumBrandVisuals"
   }
 }
