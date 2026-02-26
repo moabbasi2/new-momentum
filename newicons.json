@@ -25,12 +25,10 @@
   },
   "RCS": {
     "name": "social-rcs-color",
-    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "whatsApp": {
     "name": "social-whatsapp-color",
-    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "Activity": {
@@ -204,12 +202,10 @@
   },
   "ai-agent": {
     "name": "swiftmatch-color",
-    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "webex-icon": {
     "name": "webex-app-icon-color-container",
-    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "note": {
