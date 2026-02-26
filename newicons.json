@@ -46,7 +46,7 @@
   },
   "SMS": {
     "name": "sms-filled",
-    "color": "darkmint"
+    "color": "mint"
   },
   "Telephony": {
     "name": "incoming-call-legacy-bold",
