@@ -1,20 +1,20 @@
 {
   "Generic": {
     "name": "meeting-summary-bold",
-    "color": "grey"
+    "color": "slate"
   },
   "Chat": {
     "name": "chat-bold",
-    "color": "blue"
+    "color": "cobalt"
   },
   "Messenger": {
     "name": "social-fbmessenger-color",
-    "color": "blue",
+    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "Facebook": {
     "name": "social-facebook-color",
-    "color": "blue",
+    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "Apple": {
@@ -28,57 +28,57 @@
   },
   "RCS": {
     "name": "social-rcs-color",
-    "color": "red",
+    "color": "orange",
     "iconSet": "momentumBrandVisuals"
   },
   "whatsApp": {
     "name": "social-whatsapp-color",
-    "color": "green",
+    "color": "mint",
     "iconSet": "momentumBrandVisuals"
   },
   "Activity": {
     "name": "meetings-bold",
-    "color": "yellow"
+    "color": "gold"
   },
   "Email": {
     "name": "email-bold",
-    "color": "red"
+    "color": "purple"
   },
   "SMS": {
     "name": "sms-filled",
-    "color": "mint"
+    "color": "lime"
   },
   "Telephony": {
     "name": "incoming-call-legacy-bold",
-    "color": "green"
+    "color": "mint"
   },
   "Voice": {
     "name": "handset-filled",
-    "color": "green"
+    "color": "mint"
   },
   "Call": {
     "name": "handset-filled",
-    "color": "green"
+    "color": "mint"
   },
   "outbound-call": {
     "name": "outgoing-call-legacy-filled",
-    "color": "green"
+    "color": "mint"
   },
   "inbound-call": {
     "name": "incoming-call-legacy-filled",
-    "color": "green"
+    "color": "mint"
   },
   "Phone": {
     "name": "handset-filled",
-    "color": "green"
+    "color": "mint"
   },
   "wrapup": {
     "name": "close-space-bold",
-    "color": "red"
+    "color": "cobalt"
   },
   "agent": {
     "name": "helpdesk-bold",
-    "color": "blue"
+    "color": "cobalt"
   },
   "social": {
     "name": "queue-contact-bold",
@@ -86,11 +86,11 @@
   },
   "task": {
     "name": "check-bold",
-    "color": "yellow"
+    "color": "gold"
   },
-  "task-green": {
+  "task-mint": {
     "name": "check-bold",
-    "color": "green"
+    "color": "mint"
   },
   "Login": {
     "name": "sign-in-bold",
@@ -98,15 +98,15 @@
   },
   "Page Visit": {
     "name": "mouse-cursor-bold",
-    "color": "grey"
+    "color": "slate"
   },
-  "Entered ZipCode": {
+  "Entecobalt ZipCode": {
     "name": "location-bold",
-    "color": "cyan"
+    "color": "pink"
   },
   "Identify": {
     "name": "user-bold",
-    "color": "blue"
+    "color": "cobalt"
   },
   "Quote": {
     "name": "document-bold",
@@ -114,7 +114,7 @@
   },
   "NPS.*": {
     "name": "analysis-filled",
-    "color": "red"
+    "color": "cobalt"
   },
   "Video": {
     "name": "camera-bold",
@@ -126,11 +126,11 @@
   },
   "IMI_Inbound": {
     "name": "incoming-call-legacy-filled",
-    "color": "green"
+    "color": "mint"
   },
   "IMI_Outbound": {
     "name": "outgoing-call-legacy-filled",
-    "color": "darkmint"
+    "color": "mint"
   },
   "Trigger Sent to Server": {
     "name": "send-bold",
@@ -146,27 +146,27 @@
   },
   "multi events single day": {
     "name": "emoji-passive-bold",
-    "color": "yellow"
+    "color": "gold"
   },
-  "Answered Quickly": {
+  "Answecobalt Quickly": {
     "name": "emoji-happy-bold",
-    "color": "green"
+    "color": "mint"
   },
   "Acceptable Queue Wait-time": {
     "name": "emoji-passive-bold",
-    "color": "yellow"
+    "color": "gold"
   },
   "Waited In Queue Too Long": {
     "name": "emoji-sad-bold",
-    "color": "red"
+    "color": "cobalt"
   },
   "Daily": {
     "name": "daily-recurring-schedule-bold",
-    "color": "yellow"
+    "color": "gold"
   },
   "Done-All": {
     "name": "done-all-bold",
-    "color": "green"
+    "color": "mint"
   },
   "External-Message": {
     "name": "external-message-bold",
@@ -174,7 +174,7 @@
   },
   "status": {
     "name": "info-circle-bold",
-    "color": "yellow"
+    "color": "gold"
   },
   "alert": {
     "name": "priority-circle-bold",
@@ -182,11 +182,11 @@
   },
   "alert2": {
     "name": "alert-bold",
-    "color": "red"
+    "color": "cobalt"
   },
   "airplane": {
     "name": "pto-presence-bold",
-    "color": "blue"
+    "color": "cobalt"
   },
   "email-outgoing": {
     "name": "email-outgoing-bold",
@@ -194,7 +194,7 @@
   },
   "generic-bot": {
     "name": "bot-customer-assistant-bold",
-    "color": "blue"
+    "color": "cobalt"
   },
   "Announcement": {
     "name": "announcement-bold",
@@ -216,11 +216,11 @@
   },
   "note": {
     "name": "allow-to-annotate-regular",
-    "color": "blue"
+    "color": "cobalt"
   },
   "notify": {
     "name": "sms-message-filled",
-    "color": "yellow"
+    "color": "gold"
   },
   "Chat Transcription": {
     "name": "icon-note_20",
@@ -240,27 +240,27 @@
   },
   "calendarDate": {
     "name": "icon-calendar-month_16",
-    "color": "green"
+    "color": "mint"
   },
   "emoticon-passive": {
     "name": "icon-emoticon-passive_24",
-    "color": "yellow"
+    "color": "gold"
   },
   "emoticon-sad": {
     "name": "icon-emoticon-sad_24",
-    "color": "red"
+    "color": "cobalt"
   },
   "emoticon-happy": {
     "name": "icon-emoticons_16",
-    "color": "green"
+    "color": "mint"
   },
   "OTP-pass": {
     "name": "icon-private-circle_16",
-    "color": "green"
+    "color": "mint"
   },
   "OTP-fail": {
     "name": "icon-private-circle_16",
-    "color": "red"
+    "color": "cobalt"
   },
   "Information": {
     "name": "icon-info_16",
@@ -272,7 +272,7 @@
   },
   "FBbot": {
     "name": "icon-bot-customer-assistant_16",
-    "color": "blue"
+    "color": "cobalt"
   },
   "bot": {
     "name": "icon-bot-customer-assistant_16",
@@ -280,11 +280,11 @@
   },
   "botmad": {
     "name": "icon-bot-expert-assistant_16",
-    "color": "red"
+    "color": "cobalt"
   },
   "Callback": {
     "name": "icon-icon-callback_16",
-    "color": "green"
+    "color": "mint"
   },
   "WrapCode": {
     "name": "icon-favorite-active_16",
@@ -292,99 +292,99 @@
   },
   "Location": {
     "name": "icon-location_16",
-    "color": "green"
+    "color": "mint"
   },
   "Pending": {
     "name": "icon-pen_16",
-    "color": "blue"
+    "color": "cobalt"
   },
   "Review": {
     "name": "icon-pen_16",
-    "color": "red"
+    "color": "cobalt"
   },
   "In Progress": {
     "name": "icon-pen_16",
-    "color": "yellow"
+    "color": "gold"
   },
   "Completed": {
     "name": "icon-pen_16",
-    "color": "green"
+    "color": "mint"
   },
   "Weather": {
     "name": "icon-cloud_16",
-    "color": "blue"
+    "color": "cobalt"
   },
   "Bill Pay Success": {
     "name": "icon-pen_16",
-    "color": "green"
+    "color": "mint"
   },
   "Bill Pay Fail": {
     "name": "icon-pen_16",
-    "color": "red"
+    "color": "cobalt"
   },
   "Payment": {
     "name": "icon-pen_16",
-    "color": "blue"
+    "color": "cobalt"
   },
   "Attendance": {
     "name": "icon-calendar-month_16",
-    "color": "yellow"
+    "color": "gold"
   },
   "WebexInquiry": {
     "name": "icon-webex-teams_16",
-    "color": "blue"
+    "color": "cobalt"
   },
   "WebexInquiryCompleted": {
     "name": "icon-webex-teams_16",
-    "color": "yellow"
+    "color": "gold"
   },
-  "WebexInquiryAnswered": {
+  "WebexInquiryAnswecobalt": {
     "name": "icon-webex-teams_16",
-    "color": "green"
+    "color": "mint"
   },
   "Status Change": {
     "name": "icon-pen_16",
-    "color": "red"
+    "color": "cobalt"
   },
   "Notes": {
     "name": "icon-pen_16",
-    "color": "yellow"
+    "color": "gold"
   },
   "Reported Spam": {
     "name": "icon-participant-blocked_14",
-    "color": "red"
+    "color": "cobalt"
   },
   "email-sad": {
     "name": "icon-emoticon-sad_24",
-    "color": "red"
+    "color": "cobalt"
   },
   "email-happy": {
     "name": "icon-emoticons_16",
-    "color": "green"
+    "color": "mint"
   },
   "email-neutral": {
     "name": "icon-emoticon-passive_24",
-    "color": "yellow"
+    "color": "gold"
   },
   "email-template": {
     "name": "icon-email-active_16",
-    "color": "yellow"
+    "color": "gold"
   },
   "survey-sad": {
     "name": "icon-emoticon-sad_24",
-    "color": "red"
+    "color": "cobalt"
   },
   "survey-happy": {
     "name": "icon-emoticons_16",
-    "color": "green"
+    "color": "mint"
   },
   "survey-neutral": {
     "name": "icon-emoticon-passive_24",
-    "color": "yellow"
+    "color": "gold"
   },
   "Serviced By Agent": {
     "name": "icon-headset_16",
-    "color": "green"
+    "color": "mint"
   },
   "Used Self Service": {
     "name": "icon-bot-customer-assistant_16",
@@ -392,7 +392,7 @@
   },
   "Abandoned While Waiting": {
     "name": "icon-emoticon-sad_24",
-    "color": "red"
+    "color": "cobalt"
   },
   "Servicenow": {
     "name": "servicenow-color",
@@ -401,12 +401,12 @@
   },
   "Salesforce": {
     "name": "salesforce-color",
-    "color": "blue",
+    "color": "cobalt",
     "iconSet": "momentumBrandVisuals"
   },
   "Dynamics": {
     "name": "ms-dynamics-color",
-    "color": "purple",
+    "color": "violet",
     "iconSet": "momentumBrandVisuals"
   }
 }
